@@ -8,6 +8,9 @@ ul {
 a {
   text-decoration: none;
 }
+.header {
+  background: var(--NAVY-BLUE, #2e2f42);
+}
 
 .header-logo {
   font-family: Raleway;
@@ -20,6 +23,9 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #2e2f42;
+}
+.sektone {
+  background: #fff;
 }
 .header-ul-spc {
   font-family: "500";
@@ -35,6 +41,14 @@ a {
   line-height: 1.5;
   letter-spacing: 0.125;
   color: #4d5ae5;
+}
+.button {
+  font-family: "500";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.125;
+  color: #4d5ae5;
+  cursor: pointer;
 }
 .header-Portfolio-link {
   font-family: "500";
@@ -67,12 +81,17 @@ a {
   letter-spacing: 0.056;
   color: #2e2f42;
 }
-
+.section-tiem {
+  background: var(--CLOUD, #f4f4fd);
+}
 .hero {
   font-family: "500";
   font-size: 20px;
   letter-spacing: 0.1;
   color: #2e2f42;
+}
+.section-our-portfolio {
+  background: #fff;
 }
 .Our-Portfolio {
   font-family: "700";
