@@ -25,7 +25,7 @@ a {
   color: #2e2f42;
 }
 .header-ul-spc {
-  font-family: "medium";
+  font-family: "500";
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.125;
@@ -34,21 +34,21 @@ a {
 .header-item {
 }
 .header-Studio-link {
-  font-family: "medium";
+  font-family: "500";
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.125;
   color: #4d5ae5;
 }
 .header-Portfolio-link {
-  font-family: "medium";
+  font-family: "500";
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.125;
   color: #4d5ae5;
 }
 .header-Contacts-link {
-  font-family: "medium";
+  font-family: "500";
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.125;
@@ -68,7 +68,7 @@ a {
 .header-tel-link {
 }
 .spdt {
-  font-family: "medium";
+  font-family: "500";
   font-size: 20px;
   letter-spacing: 0.1;
   color: #2e2f42;
@@ -80,7 +80,7 @@ a {
 .hero-liste {
 }
 .hero {
-  font-family: "medium";
+  font-family: "500";
   font-size: 20px;
   letter-spacing: 0.1;
   color: #2e2f42;
@@ -90,7 +90,7 @@ a {
 .servis-liste {
 }
 .servis {
-  font-family: "medium";
+  font-family: "500";
   font-size: 20px;
   letter-spacing: 0.1;
   color: #2e2f42;
