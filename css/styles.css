@@ -76,6 +76,10 @@ a {
 .section-tiem {
 }
 .Our-Team {
+  font-family: "700";
+  font-size: 36px;
+  letter-spacing: 0.056;
+  color: #2e2f42;
 }
 .hero-liste {
 }
@@ -86,6 +90,10 @@ a {
   color: #2e2f42;
 }
 .Our-Portfolio {
+  font-family: "700";
+  font-size: 36px;
+  letter-spacing: 0.056;
+  color: #2e2f42;
 }
 .servis-liste {
 }
