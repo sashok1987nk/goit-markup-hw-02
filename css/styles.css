@@ -8,10 +8,7 @@ ul {
 a {
   text-decoration: none;
 }
-.header {
-}
-.header-nav {
-}
+
 .header-logo {
   font-family: Raleway;
   color: #4d5ae5;
@@ -31,8 +28,7 @@ a {
   letter-spacing: 0.125;
   color: #2e2f42;
 }
-.header-item {
-}
+
 .header-Studio-link {
   font-family: "500";
   font-size: 16px;
@@ -57,32 +53,21 @@ a {
 .header-adres {
   font-style: normal;
 }
-.header-adres-list {
-}
-.header-email {
-}
-.header-email-link {
-}
-.header-tel {
-}
-.header-tel-link {
-}
+
 .spdt {
   font-family: "500";
   font-size: 20px;
   letter-spacing: 0.1;
   color: #2e2f42;
 }
-.section-tiem {
-}
+
 .Our-Team {
   font-family: "700";
   font-size: 36px;
   letter-spacing: 0.056;
   color: #2e2f42;
 }
-.hero-liste {
-}
+
 .hero {
   font-family: "500";
   font-size: 20px;
@@ -95,8 +80,7 @@ a {
   letter-spacing: 0.056;
   color: #2e2f42;
 }
-.servis-liste {
-}
+
 .servis {
   font-family: "500";
   font-size: 20px;
