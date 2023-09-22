@@ -1,0 +1,97 @@
+body {
+  font-family: "roboto", sans-serif;
+  color: #434455;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.header {
+}
+.header-nav {
+}
+.header-logo {
+  font-family: Raleway;
+  color: #4d5ae5;
+}
+.header-logo-text {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #2e2f42;
+}
+.header-ul-spc {
+  font-family: "medium";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.125;
+  color: #2e2f42;
+}
+.header-item {
+}
+.header-Studio-link {
+  font-family: "medium";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.125;
+  color: #4d5ae5;
+}
+.header-Portfolio-link {
+  font-family: "medium";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.125;
+  color: #4d5ae5;
+}
+.header-Contacts-link {
+  font-family: "medium";
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.125;
+  color: #4d5ae5;
+}
+.header-adres {
+  font-style: normal;
+}
+.header-adres-list {
+}
+.header-email {
+}
+.header-email-link {
+}
+.header-tel {
+}
+.header-tel-link {
+}
+.spdt {
+  font-family: "medium";
+  font-size: 20px;
+  letter-spacing: 0.1;
+  color: #2e2f42;
+}
+.section-tiem {
+}
+.Our-Team {
+}
+.hero-liste {
+}
+.hero {
+  font-family: "medium";
+  font-size: 20px;
+  letter-spacing: 0.1;
+  color: #2e2f42;
+}
+.Our-Portfolio {
+}
+.servis-liste {
+}
+.servis {
+  font-family: "medium";
+  font-size: 20px;
+  letter-spacing: 0.1;
+  color: #2e2f42;
+}
