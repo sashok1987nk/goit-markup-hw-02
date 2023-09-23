@@ -59,12 +59,12 @@ a {
   letter-spacing: 0.125;
   color: #4d5ae5;
 }
-.header-Contacts-link:hover,
-.header-Contacts-link:focus {
+.header-contacts-link:hover,
+.header-contacts-link:focus {
   color: #404bbf;
 }
 
-.header-Contacts-link {
+.header-contacts-link {
   font-family: "500";
   font-size: 16px;
   line-height: 1.5;
@@ -111,7 +111,7 @@ a {
   letter-spacing: 0.02em;
 }
 /*---------------section-tiem-----------------*/
-.Our-Team {
+.our-team {
   font-family: "700";
   line-height: 1.11;
   font-size: 36px;
@@ -145,7 +145,7 @@ a {
 .section-our-portfolio {
   background: #fff;
 }
-.Our-Portfolio {
+.our-portfolio {
   font-family: "700";
   line-height: 1.11;
   text-align: center;
@@ -156,8 +156,17 @@ a {
 }
 
 .servis {
-  font-family: "500";
+  font-weight: 500;
   font-size: 20px;
-  letter-spacing: 0.1;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.servis-liste-par {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/*-------------------footer---------------*/
+.footer {
+  background-color: #2e2f42;
 }
