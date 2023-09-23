@@ -108,9 +108,12 @@ a {
 /*---------------section-tiem-----------------*/
 .Our-Team {
   font-family: "700";
+  line-height: 1.11;
   font-size: 36px;
-  letter-spacing: 0.056;
+  letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 .section-tiem {
   background: var(--CLOUD, #f4f4fd);
@@ -122,7 +125,12 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.hero-liste-item {
+  background-color: #ffffff;
+}
 .namepro {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
