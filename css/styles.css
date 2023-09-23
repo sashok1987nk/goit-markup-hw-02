@@ -38,8 +38,8 @@ a {
   letter-spacing: 0.125em;
   color: #2e2f42;
 }
-.header-spd-link :hover,
-.header-spd-link :focus {
+.header-spd-link:hover,
+.header-spd-link:focus {
   color: #404bbf;
 }
 
@@ -67,12 +67,11 @@ a {
   letter-spacing: 0.125;
   color: #4d5ae5;
 }
-.header-Contacts-link :hover {
-  color: #404bbf;
-}
+.header-Contacts-link :hover,
 .header-Contacts-link :focus {
   color: #404bbf;
 }
+
 .header-Contacts-link {
   font-family: "500";
   font-size: 16px;
