@@ -19,7 +19,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase
+  text-transform: uppercase;
   color: #4d5ae5;
 }
 .header-logo-text {
@@ -39,10 +39,10 @@ a {
   color: #2e2f42;
 }
 .header-spd-link :hover {
-    color: #404bbf;
+  color: #404bbf;
 }
 .header-spd-link :focus {
-    color: #404bbf;
+  color: #404bbf;
 }
 .header-spd-link {
   font-family: "500";
@@ -52,7 +52,6 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
 
 .button {
   font-family: "500";
@@ -70,10 +69,10 @@ a {
   color: #4d5ae5;
 }
 .header-Contacts-link :hover {
-    color: #404bbf;
+  color: #404bbf;
 }
 .header-Contacts-link :focus {
-    color: #404bbf;
+  color: #404bbf;
 }
 .header-Contacts-link {
   font-family: "500";
@@ -86,7 +85,7 @@ a {
   font-style: normal;
 }
 .sektone {
-    background-color:#2e2f42;
+  background-color: #2e2f42;
 }
 .spdt {
   font-family: "500";
