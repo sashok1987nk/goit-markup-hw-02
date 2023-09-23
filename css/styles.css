@@ -67,8 +67,8 @@ a {
   letter-spacing: 0.125;
   color: #4d5ae5;
 }
-.header-Contacts-link :hover,
-.header-Contacts-link :focus {
+.header-Contacts-link:hover,
+.header-Contacts-link:focus {
   color: #404bbf;
 }
 
