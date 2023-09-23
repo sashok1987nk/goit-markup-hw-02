@@ -14,7 +14,12 @@ a {
 }
 
 .header-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase
   color: #4d5ae5;
 }
 .header-logo-text {
@@ -25,24 +30,30 @@ a {
   letter-spacing: 0.03em;
   color: #2e2f42;
 }
-.sektone {
-  background: #fff;
-}
+
 .header-ul-spc {
   font-family: "500";
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.125;
+  letter-spacing: 0.125em;
+  color: #2e2f42;
+}
+.header-spd-link :hover {
+    color: #404bbf;
+}
+.header-spd-link :focus {
+    color: #404bbf;
+}
+.header-spd-link {
+  font-family: "500";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-.header-Studio-link {
-  font-family: "500";
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.125;
-  color: #4d5ae5;
-}
+
 .button {
   font-family: "500";
   font-size: 16px;
@@ -58,17 +69,25 @@ a {
   letter-spacing: 0.125;
   color: #4d5ae5;
 }
+.header-Contacts-link :hover {
+    color: #404bbf;
+}
+.header-Contacts-link :focus {
+    color: #404bbf;
+}
 .header-Contacts-link {
   font-family: "500";
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.125;
-  color: #4d5ae5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 .header-adres {
   font-style: normal;
 }
-
+.sektone {
+    background-color:#2e2f42;
+}
 .spdt {
   font-family: "500";
   font-size: 20px;
